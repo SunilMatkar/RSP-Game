@@ -1,6 +1,6 @@
 # RSP-Game
 
-Project Statement -  Remember a childhood game "Rock, Paper and Scissors". It is a two-player game in which each
+ Mini Project Statement -  Remember a childhood game "Rock, Paper and Scissors". It is a two-player game in which each
 person simultaneously chooses either rock, paper, or scissors.
 
 
